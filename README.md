@@ -2,13 +2,6 @@
 
 ## I am a Computer Systems and Software specialist
 
-## Education
-
-2015 – 2021 Nazarbayev Intellectual School, School of Chemical and Biological Sciences, Atyrau, KZ
-
-2021 – 2025 Bachelor of Computer Systems and Software, School of Information Technology and
-Engineering, Kazakh British Technical University, Almaty, KZ
-
 ## Experience
 
 ### 💼 IT Specialist Intern
@@ -28,6 +21,7 @@ Engineering, Kazakh British Technical University, Almaty, KZ
 - Created insightful data visualizations and dashboards using **Power BI Report Builder**.
 - Queried and processed data from **MS SQL** and **Oracle SQL** for reporting purposes.
 - Used Chevron's internal web tools to generate incident reports and automate workflows.
+
 
 ## Languages and Tools
 

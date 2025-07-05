@@ -2,6 +2,17 @@
 
 ## I am a Computer Systems and Software specialist
 
+## 🎓 Education
+
+**Nazarbayev Intellectual School**  
+_School of Chemical and Biological Sciences_  
+Atyrau, Kazakhstan | 2015 – 2021
+
+**Kazakh British Technical University (KBTU)**  
+_Bachelor of Computer Systems and Software_  
+School of Information Technology and Engineering  
+Almaty, Kazakhstan | 2021 – 2025
+
 ## Experience
 
 ### 💼 IT Specialist Intern

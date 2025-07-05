@@ -9,6 +9,26 @@
 2021 – 2025 Bachelor of Computer Systems and Software, School of Information Technology and
 Engineering, Kazakh British Technical University, Almaty, KZ
 
+## Experience
+
+### 💼 IT Specialist Intern
+
+**Digitalization Center of Atyrau Region**  
+📍 Atyrau, Kazakhstan — _Jul 2024 – Aug 2024_
+
+- Connected regional departments for meetings and ensured stable communication.
+- Checked and maintained technical equipment (microphones, tablets, cameras) for conferences.
+- Provided internal application support and troubleshooting.
+
+### 📊 Data Analyst
+
+**Tengizchevroil**  
+📍 Atyrau, Kazakhstan — _Aug 2024 – Sep 2024_
+
+- Created insightful data visualizations and dashboards using **Power BI Report Builder**.
+- Queried and processed data from **MS SQL** and **Oracle SQL** for reporting purposes.
+- Used Chevron's internal web tools to generate incident reports and automate workflows.
+
 ## Languages and Tools
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
@@ -22,6 +42,10 @@ Engineering, Kazakh British Technical University, Almaty, KZ
 ![Angular](https://img.shields.io/badge/-Angular-DD0031?style=flat&logo=angular&logoColor=white)
 ![Maya 3D](https://img.shields.io/badge/-Maya-00B1E7?style=flat&logo=autodesk&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
+![Vite](https://img.shields.io/badge/-Vite-646CFF?style=flat&logo=vite&logoColor=white)
+![Redis](https://img.shields.io/badge/-Redis-DC382D?style=flat&logo=redis&logoColor=white)
+![.NET Core](https://img.shields.io/badge/-.NET_Core-512BD4?style=flat&logo=dotnet&logoColor=white)
+![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
 ![Power BI](https://img.shields.io/badge/-Power%20BI-F2C811?style=flat&logo=power-bi&logoColor=black)
 ![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white)
 ![MSSQL](https://img.shields.io/badge/-MSSQL-CC2927?style=flat&logo=microsoftsqlserver&logoColor=white)
@@ -35,5 +59,5 @@ Engineering, Kazakh British Technical University, Almaty, KZ
 [![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/imanzhan.kabulov/?locale=en_US%2Cen_GB%2Cen_GB&hl=en)
 [![Telegram](https://img.shields.io/badge/-Telegram-26A5E4?style=flat&logo=telegram&logoColor=white)](https://t.me/Ibaqaa)
 [![WhatsApp](https://img.shields.io/badge/-WhatsApp-25D366?style=flat&logo=whatsapp&logoColor=white)](https://wa.me/77087286223)
-![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)
-![HeadHunter](https://img.shields.io/badge/-HeadHunter-000000?style=flat&logo=hh.ru&logoColor=white)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/иманжан-қабұлов-20712b35a/)
+[![HeadHunter](https://img.shields.io/badge/-HeadHunter-000000?style=flat&logo=hh.ru&logoColor=white)](https://hh.kz/applicant/resumes?hhtmFrom=main&hhtmFromLabel=header)

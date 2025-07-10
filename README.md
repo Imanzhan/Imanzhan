@@ -15,6 +15,8 @@ Almaty, Kazakhstan | 2021 – 2025
 
 ## Experience
 
+## 🧑‍💻 Experience
+
 ### 🛠️ Project Manager and Developer (Internship)
 
 **LLP “Institute of Engineering and Information Technologies KBTU”**  
@@ -25,23 +27,29 @@ _Feb 2025 – Mar 2025_
 - **ESG Scoring Application Development**: Designed and implemented a web application for KBTU’s ESG Lab to facilitate student volunteer registration, track event participation, and assign scores based on engagement.
 - **Data Visualization**: Processed and analyzed KBTU staff survey data using MS Excel, then created interactive dashboards in Power BI to support ESG-related decision-making.
 
+---
+
 ### 📊 Data Analyst
 
 **Tengizchevroil**  
-📍 Atyrau, Kazakhstan — _Aug 2024 – Sep 2024_
+📍 Atyrau, Kazakhstan  
+_Aug 2024 – Sep 2024_
 
 - Created insightful data visualizations and dashboards using **Power BI Report Builder**.
 - Queried and processed data from **MS SQL** and **Oracle SQL** for reporting purposes.
 - Used Chevron's internal web tools to generate incident reports and automate workflows.
 
+---
+
 ### 💼 IT Specialist Intern
 
 **Digitalization Center of Atyrau Region**  
-📍 Atyrau, Kazakhstan — _Jul 2024 – Aug 2024_
+📍 Atyrau, Kazakhstan  
+_Jul 2024 – Aug 2024_
 
-- Connected regional departments for meetings and ensured stable communication.
-- Checked and maintained technical equipment (microphones, tablets, cameras) for conferences.
-- Provided internal application support and troubleshooting.
+- Assisted in system maintenance and user support across multiple departments.
+- Helped in data integration and created reports using Power BI and Excel.
+- Supported local digitalization projects for regional government services.
 
 ## Languages and Tools
 

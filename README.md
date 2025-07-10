@@ -17,7 +17,8 @@ Almaty, Kazakhstan | 2021 – 2025
 
 ### Project manager and developer(Internship)
 
-**LLP “Institute of Engineering and Information Technologies KBTU** – 📍 Almaty, Kazakhstan (_Feb 2025 – Mar 2025_)
+**LLP “Institute of Engineering and Information Technologies KBTU**
+📍 Almaty, Kazakhstan - _Feb 2025 – Mar 2025_
 
 - Project Management: Led a team as the project manager, ensuring timely task completion, resolving challenges,
   and maintaining clear communication among team members.

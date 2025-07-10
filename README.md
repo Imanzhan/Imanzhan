@@ -15,17 +15,15 @@ Almaty, Kazakhstan | 2021 – 2025
 
 ## Experience
 
-### Project manager and developer(Internship)
+### 🛠️ Project Manager and Developer (Internship)
 
-**LLP “Institute of Engineering and Information Technologies KBTU**
-📍 Almaty, Kazakhstan - _Feb 2025 – Mar 2025_
+**LLP “Institute of Engineering and Information Technologies KBTU”**  
+📍 Almaty, Kazakhstan  
+_Feb 2025 – Mar 2025_
 
-- Project Management: Led a team as the project manager, ensuring timely task completion, resolving challenges,
-  and maintaining clear communication among team members.
-- ESG Scoring Application Development: Designed and implemented a web application for KBTU’s ESG Lab to
-  facilitate student volunteer registration, track event participation, and assign scores based on engagement.
-- Data Visualization: Processed and analyzed KBTU staff survey data using MS Excel, then created interactive
-  dashboards in Power BI to support ESG-related decision-making.
+- **Project Management**: Led a team as the project manager, ensuring timely task completion, resolving challenges, and maintaining clear communication among team members.
+- **ESG Scoring Application Development**: Designed and implemented a web application for KBTU’s ESG Lab to facilitate student volunteer registration, track event participation, and assign scores based on engagement.
+- **Data Visualization**: Processed and analyzed KBTU staff survey data using MS Excel, then created interactive dashboards in Power BI to support ESG-related decision-making.
 
 ### 📊 Data Analyst
 

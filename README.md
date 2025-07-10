@@ -13,8 +13,6 @@ _Bachelor of Computer Systems and Software_
 School of Information Technology and Engineering  
 Almaty, Kazakhstan | 2021 – 2025
 
-## Experience
-
 ## 🧑‍💻 Experience
 
 ### 🛠️ Project Manager and Developer (Internship)

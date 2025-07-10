@@ -15,14 +15,17 @@ Almaty, Kazakhstan | 2021 – 2025
 
 ## Experience
 
-### 💼 IT Specialist Intern
+### Project manager and developer(Internship)
 
-**Digitalization Center of Atyrau Region**  
-📍 Atyrau, Kazakhstan — _Jul 2024 – Aug 2024_
+**LLP “Institute of Engineering and Information Technologies KBTU**
+📍 Almaty, Kazakhstan — _Feb 2025 – Mar 2025_
 
-- Connected regional departments for meetings and ensured stable communication.
-- Checked and maintained technical equipment (microphones, tablets, cameras) for conferences.
-- Provided internal application support and troubleshooting.
+- Project Management: Led a team as the project manager, ensuring timely task completion, resolving challenges,
+  and maintaining clear communication among team members.
+- ESG Scoring Application Development: Designed and implemented a web application for KBTU’s ESG Lab to
+  facilitate student volunteer registration, track event participation, and assign scores based on engagement.
+- Data Visualization: Processed and analyzed KBTU staff survey data using MS Excel, then created interactive
+  dashboards in Power BI to support ESG-related decision-making.
 
 ### 📊 Data Analyst
 
@@ -33,6 +36,14 @@ Almaty, Kazakhstan | 2021 – 2025
 - Queried and processed data from **MS SQL** and **Oracle SQL** for reporting purposes.
 - Used Chevron's internal web tools to generate incident reports and automate workflows.
 
+### 💼 IT Specialist Intern
+
+**Digitalization Center of Atyrau Region**  
+📍 Atyrau, Kazakhstan — _Jul 2024 – Aug 2024_
+
+- Connected regional departments for meetings and ensured stable communication.
+- Checked and maintained technical equipment (microphones, tablets, cameras) for conferences.
+- Provided internal application support and troubleshooting.
 
 ## Languages and Tools
 
